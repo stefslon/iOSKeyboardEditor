@@ -2,7 +2,7 @@
 
 I threw this together because I got fed up with the lame layout of Russian phonetic keyboard on iOS devices. If your device is jailbroken then you can replace any UCHR file located in /System/Library/KeyboardLayouts/USBKeyboardLayouts.bundle/uchrs This essentially changes external (bluetooth) keyboard layout.
 
-This is written in MatLab, but I've included "deployed" EXE file that should run without MatLab.
+This is written in MatLab, but I've included "deployed" EXE file that should run without MatLab, but you will need [MatLab Compiler Runtime (MCR)](http://www.mathworks.com/products/compiler/mcr/index.html?s_cid=BB) installed.
 
 Note: you CANNOT use this tool to change on-screen keyboard layouts.
 
